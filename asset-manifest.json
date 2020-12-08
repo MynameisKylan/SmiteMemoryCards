@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SmiteMemoryCards/static/css/main.df765b2e.chunk.css",
+    "main.js": "/SmiteMemoryCards/static/js/main.fa936d29.chunk.js",
+    "main.js.map": "/SmiteMemoryCards/static/js/main.fa936d29.chunk.js.map",
+    "runtime-main.js": "/SmiteMemoryCards/static/js/runtime-main.0555082b.js",
+    "runtime-main.js.map": "/SmiteMemoryCards/static/js/runtime-main.0555082b.js.map",
+    "static/js/2.e46d2289.chunk.js": "/SmiteMemoryCards/static/js/2.e46d2289.chunk.js",
+    "static/js/2.e46d2289.chunk.js.map": "/SmiteMemoryCards/static/js/2.e46d2289.chunk.js.map",
+    "index.html": "/SmiteMemoryCards/index.html",
+    "static/css/main.df765b2e.chunk.css.map": "/SmiteMemoryCards/static/css/main.df765b2e.chunk.css.map",
+    "static/js/2.e46d2289.chunk.js.LICENSE.txt": "/SmiteMemoryCards/static/js/2.e46d2289.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/SmiteMemoryCards/static/media/LoadingScreen.1f733fd4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0555082b.js",
+    "static/js/2.e46d2289.chunk.js",
+    "static/css/main.df765b2e.chunk.css",
+    "static/js/main.fa936d29.chunk.js"
+  ]
+}
