@@ -1,12 +1,12 @@
 import React, { useState } from 'react'
 
 function Card(props) {
-  const [name, setName] = useState(props.name);
+  const [name] = useState(props.name);
 
-  const [image, setImage] = useState(props.image);
+  const [image] = useState(props.image);
 
   return (
-      <img src={image} alt={name} className='card'></img>
+      <img src={image} alt={name} className='card' onClick={props.handleClick}></img>
   )
 }
 

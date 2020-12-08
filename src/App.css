@@ -3,12 +3,25 @@
 }
 
 .card {
-  width: 25%;
-  margin:1em;
+  width: 20%;
+  margin:1%;
   cursor:pointer;
   border-radius:5px;
 }
 
 .card:hover {
   box-shadow: 0 0 20px 1px goldenrod;
+}
+
+h1 {
+  margin: 0;
+  padding:1em;
+}
+
+body {
+  background: url(./images/LoadingScreen.png) no-repeat center;
+  background-size: cover;
+  color:white;
+  min-width:100%;
+  height:100vh;
 }
